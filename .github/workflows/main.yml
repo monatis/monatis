@@ -14,7 +14,7 @@ jobs:
       with:
         header: "Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!"
         subhead: "I'm an AI research engineer from Turkey."
-        footer: "**Some more places where you can find me**\n- TBA\n- TBA"
+        footer: "**Some more places where you can find me**\n- [TensorFlow Hub](https://tfhub.dev/monatis)\n- [HuggingFace Models Hub](https://huggingface.co/mys)"
         ref: "main"
         excludeActivity: '["WatchEvent"]'
         excludeRepo: '["monatis/monatis"]'
