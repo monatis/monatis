@@ -1,0 +1,20 @@
+name: Update GitHub Profile README
+on:
+  push:
+  schedule:
+    - cron: "*/10 * * * *" 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Update GitHub Profile README
+      uses: theboi/github-update-readme@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        header: "Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!"
+        subhead: "I'm an AI research engineer from Turkey."
+        footer: "**Some more places where you can find me**\n- TBA\n- TBA"
+        ref: "main"
+        excludeActivity: '["WatchEvent"]'
+        excludeRepo: '["monatis/monatis"]'
