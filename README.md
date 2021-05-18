@@ -1,9 +1,8 @@
 ## Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!
 
 I'm an AI research engineer from Turkey. My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan.
-Timeline
+## Timeline
 The timeline below is dynamically updated with the messages I posted to a Telegram bot.
-${MARKDOWN}
 
 ---
 
