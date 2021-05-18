@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Get markdown for updates
-      run: MARKDOWN=$(curl ${{ secrets.UPDATES_URL }} | jq -r '.markdown')
+      run: echo "MARKDOWN=$(curl ${{ secrets.UPDATES_URL }} | jq -r '.markdown')"
     - name: Update GitHub Profile README
       uses: theboi/github-update-readme@main
       env:
