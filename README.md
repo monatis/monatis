@@ -1,9 +1,10 @@
 ## 👋 Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!
 
 I'm an AI research engineer from Turkey. 📊 My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan. 🌱
-## Timeline
+## 🗞️ Timeline
 The timeline below is dynamically updated with the messages I posted to a Telegram bot. 🤖
-"- 2021-5-18 7:40: 👌 Yes, it's working like a charm 🥳\n- 2021-5-17 20:46: 😇 Just testing my cool Telegram2Github thing\n"
+- 2021-5-18 7:40: 👌 Yes, it's working like a charm 🥳
+- 2021-5-17 20:46: 😇 Just testing my cool Telegram2Github thing
 
 ---
 
@@ -19,6 +20,6 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-**Some more places where you can find me**
+**🤙 Some more places where you can find me**
 - [TensorFlow Hub](https://tfhub.dev/monatis)
 - [HuggingFace Models Hub](https://huggingface.co/mys)
