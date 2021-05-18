@@ -8,14 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Get markdown for updates
-      run: echo "MARKDOWN=$(curl ${{ secrets.UPDATES_URL }} | jq -r '.markdown')"
+      run: echo "::set-output name=MARKDOWN::$(curl ${{ secrets.UPDATES_URL }} | jq -r '.markdown')"
+      id: updates-fetcher
     - name: Update GitHub Profile README
       uses: theboi/github-update-readme@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         header: "Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!"
-        subhead: "I'm an AI research engineer from Turkey. My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan.\n## Timeline\nThe timeline below is dynamically updated with the messages I posted to a Telegram bot.\n${{ env.MARKDOWN }}"
+        subhead: "I'm an AI research engineer from Turkey. My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan.\n## Timeline\nThe timeline below is dynamically updated with the messages I posted to a Telegram bot.\n${{ steps.updates-fetcher.outputs.MARKDOWN }}"
         footer: "**Some more places where you can find me**\n- [TensorFlow Hub](https://tfhub.dev/monatis)\n- [HuggingFace Models Hub](https://huggingface.co/mys)"
         ref: "main"
         excludeActivity: '["WatchEvent"]'
