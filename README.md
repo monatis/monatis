@@ -8,9 +8,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/theboi](https://github.com/monatis/theboi) | [monatis/ai-aas](https://github.com/monatis/ai-aas) | [thorstenMueller/deep-learning-german-tts](https://github.com/thorstenMueller/deep-learning-german-tts) |
+| [monatis/ai-aas](https://github.com/monatis/ai-aas) | [monatis/theboi](https://github.com/monatis/theboi) | [thorstenMueller/deep-learning-german-tts](https://github.com/thorstenMueller/deep-learning-german-tts) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/theboi"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/theboi" title="monatis/theboi" width="200" height="200"></a> | <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/thorstenMueller/deep-learning-german-tts"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="thorstenMueller/deep-learning-german-tts" title="thorstenMueller/deep-learning-german-tts" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/monatis/theboi"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/theboi" title="monatis/theboi" width="200" height="200"></a> | <a href="https://github.com/thorstenMueller/deep-learning-german-tts"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="thorstenMueller/deep-learning-german-tts" title="thorstenMueller/deep-learning-german-tts" width="200" height="200"></a> |
 
 | [monatis/tqp](https://github.com/monatis/tqp) | [monatis/asr-annotation-bot](https://github.com/monatis/asr-annotation-bot) | [TensorSpeech/TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) |
 | :-: | :-: | :-: |
