@@ -15,7 +15,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         header: "Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!"
-        subhead: "I'm an AI research engineer from Turkey. My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan.\nTimeline\nThe timeline below is dynamically updated with the messages I posted to a Telegram bot.\n${MARKDOWN}"
+        subhead: "I'm an AI research engineer from Turkey. My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan.\n## Timeline\nThe timeline below is dynamically updated with the messages I posted to a Telegram bot.\n${{ MARKDOWN }}"
         footer: "**Some more places where you can find me**\n- [TensorFlow Hub](https://tfhub.dev/monatis)\n- [HuggingFace Models Hub](https://huggingface.co/mys)"
         ref: "main"
         excludeActivity: '["WatchEvent"]'
