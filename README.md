@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) | [monatis/slides](https://github.com/monatis/slides) | [monatis/ai-aas](https://github.com/monatis/ai-aas) |
+| [monatis/ai-aas](https://github.com/monatis/ai-aas) | [monatis/tqp](https://github.com/monatis/tqp) | [monatis/german-tts](https://github.com/monatis/german-tts) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/TensorSpeech/TensorFlowTTS"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="TensorSpeech/TensorFlowTTS" title="TensorSpeech/TensorFlowTTS" width="200" height="200"></a> | <a href="https://github.com/monatis/slides"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/slides" title="monatis/slides" width="200" height="200"></a> | <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/monatis/tqp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/tqp" title="monatis/tqp" width="200" height="200"></a> | <a href="https://github.com/monatis/german-tts"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/german-tts" title="monatis/german-tts" width="200" height="200"></a> |
 
-| [monatis/theboi](https://github.com/monatis/theboi) | [thorstenMueller/deep-learning-german-tts](https://github.com/thorstenMueller/deep-learning-german-tts) | [monatis/tqp](https://github.com/monatis/tqp) |
+| [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) | [monatis/slides](https://github.com/monatis/slides) | [monatis/theboi](https://github.com/monatis/theboi) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/theboi"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/theboi" title="monatis/theboi" width="200" height="200"></a> | <a href="https://github.com/thorstenMueller/deep-learning-german-tts"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="thorstenMueller/deep-learning-german-tts" title="thorstenMueller/deep-learning-german-tts" width="200" height="200"></a> | <a href="https://github.com/monatis/tqp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/tqp" title="monatis/tqp" width="200" height="200"></a> |
+| <a href="https://github.com/TensorSpeech/TensorFlowTTS"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="TensorSpeech/TensorFlowTTS" title="TensorSpeech/TensorFlowTTS" width="200" height="200"></a> | <a href="https://github.com/monatis/slides"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/slides" title="monatis/slides" width="200" height="200"></a> | <a href="https://github.com/monatis/theboi"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/theboi" title="monatis/theboi" width="200" height="200"></a> |
 
 
 
