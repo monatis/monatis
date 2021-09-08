@@ -10,10 +10,6 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/ai-aas](https://github.com/monatis/ai-aas) | [monatis/tqp](https://github.com/monatis/tqp) | [monatis/german-tts](https://github.com/monatis/german-tts) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/monatis/tqp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/tqp" title="monatis/tqp" width="200" height="200"></a> | <a href="https://github.com/monatis/german-tts"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/german-tts" title="monatis/german-tts" width="200" height="200"></a> |
-
 
 
 ---
