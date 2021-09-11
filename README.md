@@ -10,6 +10,10 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
+| [monatis/turkish-clip](https://github.com/monatis/turkish-clip) |
+| :-: |
+| <a href="https://github.com/monatis/turkish-clip"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/turkish-clip" title="monatis/turkish-clip" width="200" height="200"></a> |
+
 
 
 ---
