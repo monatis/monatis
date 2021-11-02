@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/turkish-clip](https://github.com/monatis/turkish-clip) |
-| :-: |
-| <a href="https://github.com/monatis/turkish-clip"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/turkish-clip" title="monatis/turkish-clip" width="200" height="200"></a> |
+| [monatis/ai-aas](https://github.com/monatis/ai-aas) | [monatis/turkish-clip](https://github.com/monatis/turkish-clip) |
+| :-: | :-: |
+| <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/monatis/turkish-clip"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/turkish-clip" title="monatis/turkish-clip" width="200" height="200"></a> |
 
 
 
