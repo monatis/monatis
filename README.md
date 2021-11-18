@@ -10,9 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/slides](https://github.com/monatis/slides) | [monatis/ai-aas](https://github.com/monatis/ai-aas) | [monatis/turkish-clip](https://github.com/monatis/turkish-clip) |
+| [monatis/german-tts](https://github.com/monatis/german-tts) | [monatis/slides](https://github.com/monatis/slides) | [monatis/ai-aas](https://github.com/monatis/ai-aas) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/slides"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/slides" title="monatis/slides" width="200" height="200"></a> | <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/monatis/turkish-clip"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/turkish-clip" title="monatis/turkish-clip" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/german-tts"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/german-tts" title="monatis/german-tts" width="200" height="200"></a> | <a href="https://github.com/monatis/slides"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/slides" title="monatis/slides" width="200" height="200"></a> | <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> |
+
+| [monatis/turkish-clip](https://github.com/monatis/turkish-clip) |
+| :-: |
+| <a href="https://github.com/monatis/turkish-clip"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/turkish-clip" title="monatis/turkish-clip" width="200" height="200"></a> |
 
 
 
