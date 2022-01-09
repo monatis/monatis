@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/qdrant](https://github.com/monatis/qdrant) | [qdrant/qdrant](https://github.com/qdrant/qdrant) | [monatis/mdium](https://github.com/monatis/mdium) |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [monatis/qdrant](https://github.com/monatis/qdrant) | [monatis/mdium](https://github.com/monatis/mdium) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/qdrant" title="monatis/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/monatis/mdium"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/mdium" title="monatis/mdium" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/monatis/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/qdrant" title="monatis/qdrant" width="200" height="200"></a> | <a href="https://github.com/monatis/mdium"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/mdium" title="monatis/mdium" width="200" height="200"></a> |
 
 | [monatis/trfaq](https://github.com/monatis/trfaq) | [monatis/german-tts](https://github.com/monatis/german-tts) | [monatis/slides](https://github.com/monatis/slides) |
 | :-: | :-: | :-: |
