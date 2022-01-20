@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/awesome-awesome](https://github.com/monatis/awesome-awesome) | [monatis/ai-aas](https://github.com/monatis/ai-aas) | [qdrant/qdrant](https://github.com/qdrant/qdrant) |
+| [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) | [monatis/awesome-awesome](https://github.com/monatis/awesome-awesome) | [monatis/ai-aas](https://github.com/monatis/ai-aas) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/awesome-awesome"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/awesome-awesome" title="monatis/awesome-awesome" width="200" height="200"></a> | <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> |
+| <a href="https://github.com/emijrp/awesome-awesome"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="emijrp/awesome-awesome" title="emijrp/awesome-awesome" width="200" height="200"></a> | <a href="https://github.com/monatis/awesome-awesome"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/awesome-awesome" title="monatis/awesome-awesome" width="200" height="200"></a> | <a href="https://github.com/monatis/ai-aas"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ai-aas" title="monatis/ai-aas" width="200" height="200"></a> |
 
-| [monatis/qdrant](https://github.com/monatis/qdrant) | [monatis/mdium](https://github.com/monatis/mdium) | [monatis/trfaq](https://github.com/monatis/trfaq) |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [monatis/qdrant](https://github.com/monatis/qdrant) | [monatis/mdium](https://github.com/monatis/mdium) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/qdrant" title="monatis/qdrant" width="200" height="200"></a> | <a href="https://github.com/monatis/mdium"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/mdium" title="monatis/mdium" width="200" height="200"></a> | <a href="https://github.com/monatis/trfaq"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/trfaq" title="monatis/trfaq" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/monatis/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/qdrant" title="monatis/qdrant" width="200" height="200"></a> | <a href="https://github.com/monatis/mdium"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/mdium" title="monatis/mdium" width="200" height="200"></a> |
 
 
 
