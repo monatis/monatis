@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [stephenleo/awesome-metric-learning](https://github.com/stephenleo/awesome-metric-learning) | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) | [qdrant/qdrant](https://github.com/qdrant/qdrant) |
+| [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) | [stephenleo/awesome-metric-learning](https://github.com/stephenleo/awesome-metric-learning) | [qdrant/qdrant](https://github.com/qdrant/qdrant) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/stephenleo/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="stephenleo/awesome-metric-learning" title="stephenleo/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/stephenleo/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="stephenleo/awesome-metric-learning" title="stephenleo/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> |
 
 | [monatis/awesome](https://github.com/monatis/awesome) | [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) | [monatis/awesome-awesome](https://github.com/monatis/awesome-awesome) |
 | :-: | :-: | :-: |
