@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) | [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [stephenleo/awesome-metric-learning](https://github.com/stephenleo/awesome-metric-learning) |
+| [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) | [stephenleo/awesome-metric-learning](https://github.com/stephenleo/awesome-metric-learning) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_client" title="qdrant/qdrant_client" width="200" height="200"></a> | <a href="https://github.com/stephenleo/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="stephenleo/awesome-metric-learning" title="stephenleo/awesome-metric-learning" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant_client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_client" title="qdrant/qdrant_client" width="200" height="200"></a> | <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/stephenleo/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="stephenleo/awesome-metric-learning" title="stephenleo/awesome-metric-learning" width="200" height="200"></a> |
 
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | [monatis/awesome](https://github.com/monatis/awesome) | [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) |
 | :-: | :-: | :-: |
