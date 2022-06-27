@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/go-client](https://github.com/qdrant/go-client) | [qdrant/qdrant_sphinx_theme](https://github.com/qdrant/qdrant_sphinx_theme) | [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) |
+| [qdrant/go-client](https://github.com/qdrant/go-client) | [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/qdrant_sphinx_theme](https://github.com/qdrant/qdrant_sphinx_theme) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_sphinx_theme"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_sphinx_theme" title="qdrant/qdrant_sphinx_theme" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_client" title="qdrant/qdrant_client" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_sphinx_theme"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_sphinx_theme" title="qdrant/qdrant_sphinx_theme" width="200" height="200"></a> |
 
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) |
+| [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) |
 | :-: | :-: |
-| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/keras-team/keras-nlp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="keras-team/keras-nlp" title="keras-team/keras-nlp" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant_client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_client" title="qdrant/qdrant_client" width="200" height="200"></a> | <a href="https://github.com/keras-team/keras-nlp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="keras-team/keras-nlp" title="keras-team/keras-nlp" width="200" height="200"></a> |
 
 
 
