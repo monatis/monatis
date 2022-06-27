@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/go-client](https://github.com/qdrant/go-client) | [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/qdrant_sphinx_theme](https://github.com/qdrant/qdrant_sphinx_theme) |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/go-client](https://github.com/qdrant/go-client) | [qdrant/qdrant_sphinx_theme](https://github.com/qdrant/qdrant_sphinx_theme) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_sphinx_theme"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_sphinx_theme" title="qdrant/qdrant_sphinx_theme" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_sphinx_theme"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_sphinx_theme" title="qdrant/qdrant_sphinx_theme" width="200" height="200"></a> |
 
 | [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp) |
 | :-: | :-: |
