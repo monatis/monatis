@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion-models"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion-models" title="qdrant/quaterion-models" width="200" height="200"></a> | <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion-models"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion-models" title="qdrant/quaterion-models" width="200" height="200"></a> |
 
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/go-client](https://github.com/qdrant/go-client) | [qdrant/qdrant_sphinx_theme](https://github.com/qdrant/qdrant_sphinx_theme) |
+| [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) | [qdrant/go-client](https://github.com/qdrant/go-client) | [qdrant/qdrant_sphinx_theme](https://github.com/qdrant/qdrant_sphinx_theme) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_sphinx_theme"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_sphinx_theme" title="qdrant/qdrant_sphinx_theme" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> | <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_sphinx_theme"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_sphinx_theme" title="qdrant/qdrant_sphinx_theme" width="200" height="200"></a> |
 
 
 
