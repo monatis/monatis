@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/ofa-docker](https://github.com/monatis/ofa-docker) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) |
+| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [monatis/ofa-docker](https://github.com/monatis/ofa-docker) | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/ofa-docker"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ofa-docker" title="monatis/ofa-docker" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/monatis/ofa-docker"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ofa-docker" title="monatis/ofa-docker" width="200" height="200"></a> | <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> |
 
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) | [qdrant/go-client](https://github.com/qdrant/go-client) |
 | :-: | :-: | :-: |
