@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/go-client](https://github.com/qdrant/go-client) | [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) | [monatis/serverless-ofa](https://github.com/monatis/serverless-ofa) |
+| [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) | [qdrant/go-client](https://github.com/qdrant/go-client) | [monatis/serverless-ofa](https://github.com/monatis/serverless-ofa) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/OFA-Sys/OFA"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFA" title="OFA-Sys/OFA" width="200" height="200"></a> | <a href="https://github.com/monatis/serverless-ofa"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/serverless-ofa" title="monatis/serverless-ofa" width="200" height="200"></a> |
+| <a href="https://github.com/OFA-Sys/OFA"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFA" title="OFA-Sys/OFA" width="200" height="200"></a> | <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/monatis/serverless-ofa"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/serverless-ofa" title="monatis/serverless-ofa" width="200" height="200"></a> |
 
 | [aylinaydincs/GSoC-22-Project](https://github.com/aylinaydincs/GSoC-22-Project) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [DRSY/MoTIS](https://github.com/DRSY/MoTIS) |
 | :-: | :-: | :-: |
