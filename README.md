@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) | [monatis/serverless-ofa](https://github.com/monatis/serverless-ofa) | [aylinaydincs/GSoC-22-Project](https://github.com/aylinaydincs/GSoC-22-Project) |
+| [qdrant/go-client](https://github.com/qdrant/go-client) | [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) | [monatis/serverless-ofa](https://github.com/monatis/serverless-ofa) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/OFA-Sys/OFA"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFA" title="OFA-Sys/OFA" width="200" height="200"></a> | <a href="https://github.com/monatis/serverless-ofa"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/serverless-ofa" title="monatis/serverless-ofa" width="200" height="200"></a> | <a href="https://github.com/aylinaydincs/GSoC-22-Project"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="aylinaydincs/GSoC-22-Project" title="aylinaydincs/GSoC-22-Project" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/go-client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/go-client" title="qdrant/go-client" width="200" height="200"></a> | <a href="https://github.com/OFA-Sys/OFA"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFA" title="OFA-Sys/OFA" width="200" height="200"></a> | <a href="https://github.com/monatis/serverless-ofa"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/serverless-ofa" title="monatis/serverless-ofa" width="200" height="200"></a> |
 
-| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [DRSY/MoTIS](https://github.com/DRSY/MoTIS) | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) |
+| [aylinaydincs/GSoC-22-Project](https://github.com/aylinaydincs/GSoC-22-Project) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [DRSY/MoTIS](https://github.com/DRSY/MoTIS) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/DRSY/MoTIS"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="DRSY/MoTIS" title="DRSY/MoTIS" width="200" height="200"></a> | <a href="https://github.com/qdrant/awesome-metric-learning"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/awesome-metric-learning" title="qdrant/awesome-metric-learning" width="200" height="200"></a> |
+| <a href="https://github.com/aylinaydincs/GSoC-22-Project"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="aylinaydincs/GSoC-22-Project" title="aylinaydincs/GSoC-22-Project" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/DRSY/MoTIS"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="DRSY/MoTIS" title="DRSY/MoTIS" width="200" height="200"></a> |
 
 
 
