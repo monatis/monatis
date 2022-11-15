@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [monatis/stable-diffusion-tf-docker](https://github.com/monatis/stable-diffusion-tf-docker) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) |
+| [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [monatis/stable-diffusion-tf-docker](https://github.com/monatis/stable-diffusion-tf-docker) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/monatis/stable-diffusion-tf-docker"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/stable-diffusion-tf-docker" title="monatis/stable-diffusion-tf-docker" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion-models"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion-models" title="qdrant/quaterion-models" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/quaterion-models"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion-models" title="qdrant/quaterion-models" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/monatis/stable-diffusion-tf-docker"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/stable-diffusion-tf-docker" title="monatis/stable-diffusion-tf-docker" width="200" height="200"></a> |
 
 | [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) | [qdrant/go-client](https://github.com/qdrant/go-client) | [monatis/serverless-ofa](https://github.com/monatis/serverless-ofa) |
 | :-: | :-: | :-: |
