@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/OFASys](https://github.com/monatis/OFASys) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [OFA-Sys/OFASys](https://github.com/OFA-Sys/OFASys) |
+| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [monatis/OFASys](https://github.com/monatis/OFASys) | [OFA-Sys/OFASys](https://github.com/OFA-Sys/OFASys) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/OFASys" title="monatis/OFASys" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/OFA-Sys/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFASys" title="OFA-Sys/OFASys" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/monatis/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/OFASys" title="monatis/OFASys" width="200" height="200"></a> | <a href="https://github.com/OFA-Sys/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFASys" title="OFA-Sys/OFASys" width="200" height="200"></a> |
 
 | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) | [allenai/unified-io-inference](https://github.com/allenai/unified-io-inference) | [monatis/stable-diffusion-tf-docker](https://github.com/monatis/stable-diffusion-tf-docker) |
 | :-: | :-: | :-: |
