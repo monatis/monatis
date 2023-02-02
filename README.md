@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [monatis/OFASys](https://github.com/monatis/OFASys) |
+| [monatis/latent-diffusion](https://github.com/monatis/latent-diffusion) | [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | [qdrant/quaterion](https://github.com/qdrant/quaterion) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/lucidrains/imagen-pytorch"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="lucidrains/imagen-pytorch" title="lucidrains/imagen-pytorch" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/monatis/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/OFASys" title="monatis/OFASys" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/latent-diffusion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/latent-diffusion" title="monatis/latent-diffusion" width="200" height="200"></a> | <a href="https://github.com/lucidrains/imagen-pytorch"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="lucidrains/imagen-pytorch" title="lucidrains/imagen-pytorch" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> |
 
-| [OFA-Sys/OFASys](https://github.com/OFA-Sys/OFASys) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) | [allenai/unified-io-inference](https://github.com/allenai/unified-io-inference) |
+| [monatis/OFASys](https://github.com/monatis/OFASys) | [OFA-Sys/OFASys](https://github.com/OFA-Sys/OFASys) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/OFA-Sys/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFASys" title="OFA-Sys/OFASys" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion-models"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion-models" title="qdrant/quaterion-models" width="200" height="200"></a> | <a href="https://github.com/allenai/unified-io-inference"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="allenai/unified-io-inference" title="allenai/unified-io-inference" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/OFASys" title="monatis/OFASys" width="200" height="200"></a> | <a href="https://github.com/OFA-Sys/OFASys"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="OFA-Sys/OFASys" title="OFA-Sys/OFASys" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion-models"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion-models" title="qdrant/quaterion-models" width="200" height="200"></a> |
 
 
 
