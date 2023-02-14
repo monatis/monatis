@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/latent-diffusion](https://github.com/monatis/latent-diffusion) | [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | [qdrant/quaterion](https://github.com/qdrant/quaterion) |
+| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [monatis/latent-diffusion](https://github.com/monatis/latent-diffusion) | [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/latent-diffusion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/latent-diffusion" title="monatis/latent-diffusion" width="200" height="200"></a> | <a href="https://github.com/lucidrains/imagen-pytorch"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="lucidrains/imagen-pytorch" title="lucidrains/imagen-pytorch" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/monatis/latent-diffusion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/latent-diffusion" title="monatis/latent-diffusion" width="200" height="200"></a> | <a href="https://github.com/lucidrains/imagen-pytorch"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="lucidrains/imagen-pytorch" title="lucidrains/imagen-pytorch" width="200" height="200"></a> |
 
 | [monatis/OFASys](https://github.com/monatis/OFASys) | [OFA-Sys/OFASys](https://github.com/OFA-Sys/OFASys) | [qdrant/quaterion-models](https://github.com/qdrant/quaterion-models) |
 | :-: | :-: | :-: |
