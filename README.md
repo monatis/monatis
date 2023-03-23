@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [qdrant/qdrant-web-ui](https://github.com/qdrant/qdrant-web-ui) |
+| [qdrant/landing_page](https://github.com/qdrant/landing_page) | [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [qdrant/quaterion](https://github.com/qdrant/quaterion) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/qdrant_client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_client" title="qdrant/qdrant_client" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant-web-ui"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant-web-ui" title="qdrant/qdrant-web-ui" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/landing_page"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/landing_page" title="qdrant/landing_page" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant_client"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant_client" title="qdrant/qdrant_client" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> |
 
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/docs](https://github.com/qdrant/docs) | [monatis/latent-diffusion](https://github.com/monatis/latent-diffusion) |
+| [qdrant/qdrant-web-ui](https://github.com/qdrant/qdrant-web-ui) | [qdrant/qdrant](https://github.com/qdrant/qdrant) | [qdrant/docs](https://github.com/qdrant/docs) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/docs"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/docs" title="qdrant/docs" width="200" height="200"></a> | <a href="https://github.com/monatis/latent-diffusion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/latent-diffusion" title="monatis/latent-diffusion" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/qdrant-web-ui"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant-web-ui" title="qdrant/qdrant-web-ui" width="200" height="200"></a> | <a href="https://github.com/qdrant/qdrant"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/qdrant" title="qdrant/qdrant" width="200" height="200"></a> | <a href="https://github.com/qdrant/docs"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/docs" title="qdrant/docs" width="200" height="200"></a> |
 
 
 
