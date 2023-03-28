@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) | [monatis/awesome-chatgpt-plugins](https://github.com/monatis/awesome-chatgpt-plugins) | [qdrant/quaterion](https://github.com/qdrant/quaterion) |
+| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) | [monatis/awesome-chatgpt-plugins](https://github.com/monatis/awesome-chatgpt-plugins) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/Jeadie/awesome-chatgpt-plugins"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="Jeadie/awesome-chatgpt-plugins" title="Jeadie/awesome-chatgpt-plugins" width="200" height="200"></a> | <a href="https://github.com/monatis/awesome-chatgpt-plugins"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/awesome-chatgpt-plugins" title="monatis/awesome-chatgpt-plugins" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> |
+| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/Jeadie/awesome-chatgpt-plugins"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="Jeadie/awesome-chatgpt-plugins" title="Jeadie/awesome-chatgpt-plugins" width="200" height="200"></a> | <a href="https://github.com/monatis/awesome-chatgpt-plugins"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/awesome-chatgpt-plugins" title="monatis/awesome-chatgpt-plugins" width="200" height="200"></a> |
 
 | [qdrant/landing_page](https://github.com/qdrant/landing_page) | [qdrant/qdrant_client](https://github.com/qdrant/qdrant_client) | [qdrant/qdrant-web-ui](https://github.com/qdrant/qdrant-web-ui) |
 | :-: | :-: | :-: |
