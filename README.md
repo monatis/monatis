@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [ggerganov/ggml](https://github.com/ggerganov/ggml) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [monatis/llm-api](https://github.com/monatis/llm-api) |
+| [ggerganov/ggml](https://github.com/ggerganov/ggml) | [monatis/ggml](https://github.com/monatis/ggml) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/llm-api"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/llm-api" title="monatis/llm-api" width="200" height="200"></a> |
+| <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/monatis/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ggml" title="monatis/ggml" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> |
 
-| [qdrant/quaterion](https://github.com/qdrant/quaterion) | [crsdvaibhav/quaterion](https://github.com/crsdvaibhav/quaterion) | [qdrant/landing_page](https://github.com/qdrant/landing_page) |
+| [monatis/llm-api](https://github.com/monatis/llm-api) | [qdrant/quaterion](https://github.com/qdrant/quaterion) | [crsdvaibhav/quaterion](https://github.com/crsdvaibhav/quaterion) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/crsdvaibhav/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="crsdvaibhav/quaterion" title="crsdvaibhav/quaterion" width="200" height="200"></a> | <a href="https://github.com/qdrant/landing_page"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/landing_page" title="qdrant/landing_page" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/llm-api"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/llm-api" title="monatis/llm-api" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> | <a href="https://github.com/crsdvaibhav/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="crsdvaibhav/quaterion" title="crsdvaibhav/quaterion" width="200" height="200"></a> |
 
 
 
