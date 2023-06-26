@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [ggerganov/ggml](https://github.com/ggerganov/ggml) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) |
+| [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [ggerganov/ggml](https://github.com/ggerganov/ggml) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> |
 
 | [monatis/ggml](https://github.com/monatis/ggml) | [monatis/llm-api](https://github.com/monatis/llm-api) | [qdrant/quaterion](https://github.com/qdrant/quaterion) |
 | :-: | :-: | :-: |
