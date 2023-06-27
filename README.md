@@ -14,9 +14,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 | :-: | :-: | :-: |
 | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> |
 
-| [monatis/ggml](https://github.com/monatis/ggml) | [monatis/llm-api](https://github.com/monatis/llm-api) | [qdrant/quaterion](https://github.com/qdrant/quaterion) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/monatis/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ggml" title="monatis/ggml" width="200" height="200"></a> | <a href="https://github.com/monatis/llm-api"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/llm-api" title="monatis/llm-api" width="200" height="200"></a> | <a href="https://github.com/qdrant/quaterion"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="qdrant/quaterion" title="qdrant/quaterion" width="200" height="200"></a> |
+| [monatis/ggml](https://github.com/monatis/ggml) | [monatis/llm-api](https://github.com/monatis/llm-api) |
+| :-: | :-: |
+| <a href="https://github.com/monatis/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/ggml" title="monatis/ggml" width="200" height="200"></a> | <a href="https://github.com/monatis/llm-api"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/llm-api" title="monatis/llm-api" width="200" height="200"></a> |
 
 
 
