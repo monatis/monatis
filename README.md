@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [monatis/.github](https://github.com/monatis/.github) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [ggerganov/ggml](https://github.com/ggerganov/ggml) |
+| [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [monatis/.github](https://github.com/monatis/.github) | [ggerganov/ggml](https://github.com/ggerganov/ggml) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/monatis/.github"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/.github" title="monatis/.github" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/.github"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/.github" title="monatis/.github" width="200" height="200"></a> | <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> |
 
 | [denis-ismailaj/clip.cpp](https://github.com/denis-ismailaj/clip.cpp) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [monatis/lmm.cpp](https://github.com/monatis/lmm.cpp) |
 | :-: | :-: | :-: |
