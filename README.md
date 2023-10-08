@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [monatis/lmm.cpp](https://github.com/monatis/lmm.cpp) |
+| [monatis/lmm.cpp](https://github.com/monatis/lmm.cpp) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/lmm.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/lmm.cpp" title="monatis/lmm.cpp" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/lmm.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/lmm.cpp" title="monatis/lmm.cpp" width="200" height="200"></a> | <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> |
 
 | [unum-cloud/usearch](https://github.com/unum-cloud/usearch) | [monatis/.github](https://github.com/monatis/.github) | [ggerganov/ggml](https://github.com/ggerganov/ggml) |
 | :-: | :-: | :-: |
