@@ -10,13 +10,13 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [monatis/lmm.cpp](https://github.com/monatis/lmm.cpp) | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) |
+| [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [monatis/lmm.cpp](https://github.com/monatis/lmm.cpp) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/lmm.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/lmm.cpp" title="monatis/lmm.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> |
+| <a href="https://github.com/haotian-liu/LLaVA"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="haotian-liu/LLaVA" title="haotian-liu/LLaVA" width="200" height="200"></a> | <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> | <a href="https://github.com/monatis/lmm.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/lmm.cpp" title="monatis/lmm.cpp" width="200" height="200"></a> |
 
-| [unum-cloud/usearch](https://github.com/unum-cloud/usearch) | [monatis/.github](https://github.com/monatis/.github) | [ggerganov/ggml](https://github.com/ggerganov/ggml) |
+| [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [unum-cloud/usearch](https://github.com/unum-cloud/usearch) | [monatis/.github](https://github.com/monatis/.github) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/unum-cloud/usearch"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="unum-cloud/usearch" title="unum-cloud/usearch" width="200" height="200"></a> | <a href="https://github.com/monatis/.github"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/.github" title="monatis/.github" width="200" height="200"></a> | <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> |
+| <a href="https://github.com/monatis/clip.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/clip.cpp" title="monatis/clip.cpp" width="200" height="200"></a> | <a href="https://github.com/unum-cloud/usearch"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="unum-cloud/usearch" title="unum-cloud/usearch" width="200" height="200"></a> | <a href="https://github.com/monatis/.github"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="monatis/.github" title="monatis/.github" width="200" height="200"></a> |
 
 
 
