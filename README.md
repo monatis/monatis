@@ -10,9 +10,9 @@ The timeline below is dynamically updated with the messages I posted to a Telegr
 
 ---
 
-| [ggerganov/ggml](https://github.com/ggerganov/ggml) | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) |
+| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | [ggerganov/ggml](https://github.com/ggerganov/ggml) | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/abetlen/llama-cpp-python"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="abetlen/llama-cpp-python" title="abetlen/llama-cpp-python" width="200" height="200"></a> | <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> |
+| <a href="https://github.com/ggerganov/llama.cpp"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/llama.cpp" title="ggerganov/llama.cpp" width="200" height="200"></a> | <a href="https://github.com/ggerganov/ggml"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="ggerganov/ggml" title="ggerganov/ggml" width="200" height="200"></a> | <a href="https://github.com/abetlen/llama-cpp-python"><img src="https://github.com/monatis/monatis/raw/main/DISPLAY.jpg" alt="abetlen/llama-cpp-python" title="abetlen/llama-cpp-python" width="200" height="200"></a> |
 
 | [monatis/clip.cpp](https://github.com/monatis/clip.cpp) | [SkunkworksAI/BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA) | [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) |
 | :-: | :-: | :-: |
