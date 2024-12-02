@@ -2,7 +2,7 @@ name: Update GitHub Profile README
 on:
   push:
   schedule:
-    - cron: "*/10 * * * *" 
+    - cron: "0 0 1" 
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,8 +21,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        header: "👋 Hey, I'm [Yusuf](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)!"
-        subhead: "I'm an AI research engineer from Turkey. 📊 My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations and green AI as an abolutionist vegan. 🌱\n## 🗞️ Timeline\nThe timeline below is dynamically updated with the messages I posted to a Telegram bot. 🤖\n${{ steps.updates-fetcher.outputs.MARKDOWN }}"
+        header: "👋 Hey, I'm [Yusuf](https://www.linkedin.com/in/yusufsarigoz)!"
+        subhead: "I'm an AI research engineer from Turkey. 📊 My work is usually related to NLProc, automatic speech recognition and neural text-to-speech. I'm always passionate about efficient implementations in AI. \n" #${{ steps.updates-fetcher.outputs.MARKDOWN }}
         footer: "**🤙 Some more places where you can find me**\n- [TensorFlow Hub](https://tfhub.dev/monatis)\n- [HuggingFace Models Hub](https://huggingface.co/mys)"
         ref: "main"
         excludeActivity: '["WatchEvent", "forkEvent"]'
